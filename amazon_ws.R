@@ -158,3 +158,5 @@ mis_aspiradoras<-as.data.frame(res)
 colnames(res)<-c("Nombre","Precio","Opiniones","Peso","Dimensiones","Volumen","Potencia")
 rownames(res)<-c(1:200)
 View(res)
+
+
