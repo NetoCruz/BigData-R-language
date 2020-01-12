@@ -1,4 +1,4 @@
-# BigData-R-language
+# BigData-R-language :bar_chart:
 ## Análisis de Aspiradoras en venta por amazon.com
 ### Webscrapping con Rvest. Procesado de datos. Aplicación del modelo Kmeans. Visualización de datos por Shiny
 
